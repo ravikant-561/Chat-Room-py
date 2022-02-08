@@ -2,7 +2,7 @@
 A basic server socket Chat room consisting a server and many clients , the clients can interact themselves in a real time with same IP
 
 __________________________________________________________________________________________________________________________
---------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------
 
 > Open server1.py in one terminal , then
 > open client1.py in another terminal
