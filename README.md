@@ -7,7 +7,7 @@ ________________________________________________________________________________
 > Open server1.py in one terminal , then
 > open client1.py in another terminal
 
->> The more you open cleint1.py client in many different terminal , get more users to interrect with server
+>> The more you open cleint1.py client in many different terminal , get more users to interect with server
 ---------------------------------------------------------
 > Enter Your Name , and press Enter,
 >
